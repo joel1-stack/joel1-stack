@@ -39,6 +39,7 @@ I architect and deliver production-ready applications across web, mobile, and in
 - **Kaggle:** [kaggle.com/joelkaunda](https://www.kaggle.com/joelkaunda)
 - **Email:** joelkaunda15@gmail.com
 - **x.com** [https://x.com/JoelKaunda15]
+- ** Linktre** [https://linktr.ee/joelkaunda15]
 
 *Interested in: Mobile app architecture, AI integration strategies, automation workflows, or full-stack system design.*
 
